@@ -1,1 +1,2 @@
 *.ipynb filter=lfs diff=lfs merge=lfs -text
+water_temp_outlier_detection.ipynb filter=lfs diff=lfs merge=lfs -text
